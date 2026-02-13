@@ -20,8 +20,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\SiscomexApiIntegration.API\SiscomexApiIntegration.API.csproj" />
-    <ProjectReference Include="..\..\src\SiscomexApiIntegration.Infrastructure\SiscomexApiIntegration.Infrastructure.csproj" />
-    <ProjectReference Include="..\..\src\SiscomexApiIntegration.Contracts\SiscomexApiIntegration.Contracts.csproj" />
   </ItemGroup>
 
 </Project>

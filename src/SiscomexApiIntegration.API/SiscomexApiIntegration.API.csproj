@@ -18,11 +18,8 @@
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="10.1.0" />
 	</ItemGroup>
 
-
 	<ItemGroup>
-    <ProjectReference Include="..\SiscomexApiIntegration.Application\SiscomexApiIntegration.Application.csproj" />
-    <ProjectReference Include="..\SiscomexApiIntegration.Infrastructure\SiscomexApiIntegration.Infrastructure.csproj" />
-    <ProjectReference Include="..\SiscomexApiIntegration.Contracts\SiscomexApiIntegration.Contracts.csproj" />
-  </ItemGroup>
+	  <ProjectReference Include="..\SiscomexApiIntegration.Domain\SiscomexApiIntegration.Domain.csproj" />
+	</ItemGroup>
 
 </Project>

@@ -1,12 +1,9 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/SiscomexApiIntegration.API/SiscomexApiIntegration.API.csproj" />
-    <Project Path="src/SiscomexApiIntegration.Application/SiscomexApiIntegration.Application.csproj" />
-    <Project Path="src/SiscomexApiIntegration.Contracts/SiscomexApiIntegration.Contracts.csproj" />
     <Project Path="src/SiscomexApiIntegration.Domain/SiscomexApiIntegration.Domain.csproj" />
-    <Project Path="src/SiscomexApiIntegration.Infrastructure/SiscomexApiIntegration.Infrastructure.csproj" />
   </Folder>
-  <Folder Name="/tests/">
+  <Folder Name="/Tests/">
     <Project Path="tests/SiscomexApiIntegration.IntegrationTests/SiscomexApiIntegration.IntegrationTests.csproj" />
     <Project Path="tests/SiscomexApiIntegration.UnitTests/SiscomexApiIntegration.UnitTests.csproj" />
   </Folder>
