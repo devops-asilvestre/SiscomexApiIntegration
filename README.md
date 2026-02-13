@@ -556,8 +556,9 @@ Os workflows estão configurados em `.github/workflows/`:
 
 | Item | Informação |
 |------|-----------|
-| **Desenvolvedor Principal** | Alessandro |
-| **Email** | seuemail@empresa.com |
+| **Desenvolvedor Principal** | [Alessandro](https://www.linkedin.com/in/alessandro-silvestre-devops/) |
+| **Email** | devops.asilvestre@gmail.com.br |
+| **Protech-Software** | [protech-software](https://www.linkedin.com/company/protech-software/) |
 | **Repositório** | https://github.com/devops-asilvestre/SiscomexApiIntegration |
 | **Issues** | [GitHub Issues](https://github.com/devops-asilvestre/SiscomexApiIntegration/issues) |
 
